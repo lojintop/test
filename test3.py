@@ -1,2 +1,2 @@
 print("pop")
-print("lolo")
+print("python")
